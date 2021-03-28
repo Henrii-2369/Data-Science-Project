@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Sentiment-Analysis
 Sentiment Analysis is a branch of Natural Language Processing (NLP) that allows us to
 determine algorithmically whether a statement or document is “positive” or “negative”.
 Sentiment analysis is a technology of increasing importance in the modern society as it allows
